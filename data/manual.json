@@ -1,0 +1,74 @@
+[
+ {
+  "n": "بورسیه ترکیه (Türkiye Bursları)",
+  "c": "ترکیه",
+  "l": "لیسانس، ماستر، دکترا",
+  "u": "https://turkiyeburslari.gov.tr",
+  "s": "کانون فرصت‌ها",
+  "pinned": true
+ },
+ {
+  "n": "بورسیه Chevening",
+  "c": "بریتانیا",
+  "l": "ماستر",
+  "u": "https://www.chevening.org",
+  "s": "کانون فرصت‌ها",
+  "pinned": true
+ },
+ {
+  "n": "بورسیه DAAD",
+  "c": "آلمان",
+  "l": "ماستر، دکترا",
+  "u": "https://www.daad.de",
+  "s": "کانون فرصت‌ها",
+  "pinned": true
+ },
+ {
+  "n": "برنامهٔ Fulbright",
+  "c": "امریکا",
+  "l": "ماستر، دکترا",
+  "u": "https://fulbrightprogram.org",
+  "s": "کانون فرصت‌ها",
+  "pinned": true
+ },
+ {
+  "n": "Stipendium Hungaricum",
+  "c": "هنگری",
+  "l": "لیسانس، ماستر، دکترا",
+  "u": "https://stipendiumhungaricum.hu",
+  "s": "کانون فرصت‌ها",
+  "pinned": true
+ },
+ {
+  "n": "بورسیه دولتی چین (CSC)",
+  "c": "چین",
+  "l": "لیسانس، ماستر، دکترا",
+  "u": "https://www.campuschina.org",
+  "s": "کانون فرصت‌ها",
+  "pinned": true
+ },
+ {
+  "n": "بورسیه MEXT",
+  "c": "جاپان",
+  "l": "لیسانس، ماستر، دکترا",
+  "u": "https://www.studyinjapan.go.jp",
+  "s": "کانون فرصت‌ها",
+  "pinned": true
+ },
+ {
+  "n": "Erasmus Mundus",
+  "c": "اتحادیهٔ اروپا",
+  "l": "ماستر، دکترا",
+  "u": "https://erasmus-plus.ec.europa.eu",
+  "s": "کانون فرصت‌ها",
+  "pinned": true
+ },
+ {
+  "n": "بورسیه GKS",
+  "c": "کوریای جنوبی",
+  "l": "لیسانس، ماستر، دکترا",
+  "u": "https://www.studyinkorea.go.kr",
+  "s": "کانون فرصت‌ها",
+  "pinned": true
+ }
+]

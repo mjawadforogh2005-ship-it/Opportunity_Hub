@@ -1,0 +1,1 @@
+{"name":"opportunity-hub","version":"1.0.0","type":"module","scripts":{"update":"node scripts/update.mjs","dev":"npx serve public"}}
