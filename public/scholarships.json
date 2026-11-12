@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T04:30:48.531Z",
+ "updated": "2026-11-12T14:03:57.740Z",
  "items": [
   {
    "n": "بورسیه ترکیه (Türkiye Bursları)",
@@ -74,6 +74,86 @@
    "pinned": true
   },
   {
+   "n": "University of St.Gallen Excellence Scholarships for Bachelor Students",
+   "u": "https://www.scholars4dev.com/excellence-scholarships-of-the-university-of-st-gallen/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": "لیسانس، ماستر"
+  },
+  {
+   "n": "Alfred Werner Master's Scholarships in Chemistry at Swiss Universities",
+   "u": "https://www.scholars4dev.com/alfred-werner-masters-scholarships-in-chemistry-or-biochemistry-at-swiss-universities/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": "ماستر"
+  },
+  {
+   "n": "Geneva Academy Scholarships for LLM Programmes in International Humanitarian Law and Human Rights",
+   "u": "https://www.scholars4dev.com/geneva-academy-of-international-humanitarian-law-and-human-rights-scholarships/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": "ماستر"
+  },
+  {
+   "n": "EPFL Excellence Fellowships for Bachelor's and Master's Students",
+   "u": "https://www.scholars4dev.com/epfl-excellence-fellowships/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": "لیسانس، ماستر"
+  },
+  {
+   "n": "Marshal Papworth Scholarships in Agriculture for Developing Countries",
+   "u": "https://www.scholars4dev.com/marshal-papworth-scholarships-in-agriculture/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": "ماستر"
+  },
+  {
+   "n": "Allan &#038; Nesta Ferguson Charitable Trust Masters Scholarships at University of Sheffield",
+   "u": "https://www.scholars4dev.com/allan-nesta-ferguson-charitable-trust-masters-scholarships-at-university-of-sheffield/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": "ماستر"
+  },
+  {
+   "n": "Amelia Earhart Fellowships for Women in Aerospace Sciences and Engineering",
+   "u": "https://www.scholars4dev.com/amelia-earhart-fellowships-for-women/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": "دکترا"
+  },
+  {
+   "n": "Eira Francis Davies Scholarship for Women at Swansea University",
+   "u": "https://www.scholars4dev.com/eira-davies-scholarship-at-swansea-university/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": "ماستر"
+  },
+  {
+   "n": "Numerix Women in Finance Scholarship for Master's and PhD Students",
+   "u": "https://www.scholars4dev.com/fincad-women-in-finance-scholarship/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": "ماستر، دکترا"
+  },
+  {
+   "n": "PEO International Peace Scholarships for Women in USA and Canada",
+   "u": "https://www.scholars4dev.com/peo-international-peace-scholarships-for-women/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "امریکا",
+   "l": ""
+  },
+  {
    "n": "NNPC Ltd/ TotalEnergies International Masters Degree Scholarship 2027/2028 for Study in France (Fully Funded)",
    "u": "https://www.opportunitiesforafricans.com/nnpc-ltd-totalenergies-international-masters-degree-scholarship-2027-2028/",
    "d": "2026-11-11",
@@ -103,70 +183,6 @@
    "d": "2026-11-10",
    "s": "Opportunities for Africans",
    "c": "بریتانیا",
-   "l": "ماستر"
-  },
-  {
-   "n": "Schwarzman Scholars Program at Tsinghua University",
-   "u": "https://www.scholars4dev.com/schwarzman-scholars-program-at-tsinghua-university/",
-   "d": "2026-11-09",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "ماستر"
-  },
-  {
-   "n": "Rhodes Scholarships at Oxford University for International Students",
-   "u": "https://www.scholars4dev.com/rhodes-international-scholarships-at-oxford-university/",
-   "d": "2026-11-09",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "ماستر، دکترا"
-  },
-  {
-   "n": "Belgian American Educational Foundation Fellowships",
-   "u": "https://www.scholars4dev.com/belgian-american-educational-foundation-fellowships/",
-   "d": "2026-11-09",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "ماستر، دکترا"
-  },
-  {
-   "n": "The Marshall Scholarship for US citizens to study in the UK",
-   "u": "https://www.scholars4dev.com/the-marshall-scholarship-for-americans-to-study-in-the-uk/",
-   "d": "2026-11-09",
-   "s": "Scholars4Dev",
-   "c": "بریتانیا",
-   "l": "ماستر، دکترا"
-  },
-  {
-   "n": "Boren Awards for USA students to Study Abroad",
-   "u": "https://www.scholars4dev.com/boren-awards-for-usa-students-to-study-abroad/",
-   "d": "2026-11-09",
-   "s": "Scholars4Dev",
-   "c": "امریکا",
-   "l": "لیسانس"
-  },
-  {
-   "n": "Benjamin A. Gilman International Scholarship for US Citizens to Study Abroad",
-   "u": "https://www.scholars4dev.com/benjamin-a-gilman-international-scholarship/",
-   "d": "2026-11-09",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": ""
-  },
-  {
-   "n": "DAAD In-Country/In-Region Scholarships for Sub-Saharan Africans",
-   "u": "https://www.scholars4dev.com/drd-scholarships-for-sub-saharan-africans/",
-   "d": "2026-11-09",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "ماستر"
-  },
-  {
-   "n": "Australia Awards Masters Scholarships for Africa",
-   "u": "https://www.scholars4dev.com/australia-awards-masters-scholarships-for-africa/",
-   "d": "2026-11-09",
-   "s": "Scholars4Dev",
-   "c": "آسترالیا",
    "l": "ماستر"
   }
  ]
