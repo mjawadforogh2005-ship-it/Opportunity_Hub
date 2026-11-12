@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:03:57.740Z",
+ "updated": "2026-11-12T22:55:13.247Z",
  "items": [
   {
    "n": "بورسیه ترکیه (Türkiye Bursları)",
@@ -74,83 +74,99 @@
    "pinned": true
   },
   {
-   "n": "University of St.Gallen Excellence Scholarships for Bachelor Students",
-   "u": "https://www.scholars4dev.com/excellence-scholarships-of-the-university-of-st-gallen/",
-   "d": "2026-11-12",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "لیسانس، ماستر"
-  },
-  {
-   "n": "Alfred Werner Master's Scholarships in Chemistry at Swiss Universities",
-   "u": "https://www.scholars4dev.com/alfred-werner-masters-scholarships-in-chemistry-or-biochemistry-at-swiss-universities/",
-   "d": "2026-11-12",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "ماستر"
-  },
-  {
-   "n": "Geneva Academy Scholarships for LLM Programmes in International Humanitarian Law and Human Rights",
-   "u": "https://www.scholars4dev.com/geneva-academy-of-international-humanitarian-law-and-human-rights-scholarships/",
-   "d": "2026-11-12",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "ماستر"
-  },
-  {
-   "n": "EPFL Excellence Fellowships for Bachelor's and Master's Students",
-   "u": "https://www.scholars4dev.com/epfl-excellence-fellowships/",
-   "d": "2026-11-12",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "لیسانس، ماستر"
-  },
-  {
-   "n": "Marshal Papworth Scholarships in Agriculture for Developing Countries",
-   "u": "https://www.scholars4dev.com/marshal-papworth-scholarships-in-agriculture/",
-   "d": "2026-11-12",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "ماستر"
-  },
-  {
-   "n": "Allan &#038; Nesta Ferguson Charitable Trust Masters Scholarships at University of Sheffield",
-   "u": "https://www.scholars4dev.com/allan-nesta-ferguson-charitable-trust-masters-scholarships-at-university-of-sheffield/",
-   "d": "2026-11-12",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "ماستر"
-  },
-  {
-   "n": "Amelia Earhart Fellowships for Women in Aerospace Sciences and Engineering",
-   "u": "https://www.scholars4dev.com/amelia-earhart-fellowships-for-women/",
-   "d": "2026-11-12",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "دکترا"
-  },
-  {
-   "n": "Eira Francis Davies Scholarship for Women at Swansea University",
-   "u": "https://www.scholars4dev.com/eira-davies-scholarship-at-swansea-university/",
-   "d": "2026-11-12",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "ماستر"
-  },
-  {
-   "n": "Numerix Women in Finance Scholarship for Master's and PhD Students",
-   "u": "https://www.scholars4dev.com/fincad-women-in-finance-scholarship/",
-   "d": "2026-11-12",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "ماستر، دکترا"
-  },
-  {
-   "n": "PEO International Peace Scholarships for Women in USA and Canada",
-   "u": "https://www.scholars4dev.com/peo-international-peace-scholarships-for-women/",
+   "n": "Top 15+ Scholarships in USA for International Students",
+   "u": "https://www.scholars4dev.com/scholarships-in-usa-for-international-students/",
    "d": "2026-11-12",
    "s": "Scholars4Dev",
    "c": "امریکا",
+   "l": ""
+  },
+  {
+   "n": "Top 10+ Scholarships in Canada for International Students",
+   "u": "https://www.scholars4dev.com/scholarships-canada-international-students/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "کانادا",
+   "l": "لیسانس، ماستر، دکترا"
+  },
+  {
+   "n": "Top 10 Scholarships in France for Foreign Students",
+   "u": "https://www.scholars4dev.com/scholarships-france-foreign-students/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "فرانسه",
+   "l": ""
+  },
+  {
+   "n": "Top 20+ International Scholarships for Development-Related Studies",
+   "u": "https://www.scholars4dev.com/scholarships-in-development-related-studies-for-international-students/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": ""
+  },
+  {
+   "n": "Top 10+ International Scholarships for Women",
+   "u": "https://www.scholars4dev.com/international-scholarships-for-women/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": ""
+  },
+  {
+   "n": "Top 10+ Prestigious Scholarships for the Best International Students",
+   "u": "https://www.scholars4dev.com/top-10-scholarships-for-international-students/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": ""
+  },
+  {
+   "n": "Top 15+ Excellence Scholarships for Outstanding International Students",
+   "u": "https://www.scholars4dev.com/merit-based-scholarships-for-international-students/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": ""
+  },
+  {
+   "n": "Top 20+ Foreign Government Scholarships for International Students",
+   "u": "https://www.scholars4dev.com/government-scholarships-for-developing-countries/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": ""
+  },
+  {
+   "n": "Top 15+ International Scholarships for Developing Country Students",
+   "u": "https://www.scholars4dev.com/popular-scholarships-for-developing-country-students/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": ""
+  },
+  {
+   "n": "Top 10+ Scholarships in Germany for International Students",
+   "u": "https://www.scholars4dev.com/scholarships-in-germany-for-international-students/",
+   "d": "2026-11-12",
+   "s": "Scholars4Dev",
+   "c": "آلمان",
+   "l": ""
+  },
+  {
+   "n": "Egypt-Japan University of Science and Technology (E-JUST) TICAD9 Postgraduate Scholarship Program 2027 for African graduates. (Fully Funded)",
+   "u": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/",
+   "d": "2026-11-12",
+   "s": "Opportunities for Africans",
+   "c": "جاپان",
+   "l": ""
+  },
+  {
+   "n": "The DSTI-NRF Policy Fellowship Programme Cohort 2 (24-month placements) for early- and mid-career South African professionals.",
+   "u": "https://www.opportunitiesforafricans.com/the-dsti-nrf-policy-fellowship-programme-cohort-2/",
+   "d": "2026-11-12",
+   "s": "Opportunities for Africans",
+   "c": "",
    "l": ""
   },
   {
@@ -176,14 +192,6 @@
    "s": "Opportunities for Africans",
    "c": "",
    "l": ""
-  },
-  {
-   "n": "Commonwealth Shared Scholarships 2027/2028 for full-time Master’s study in the United Kingdom (Fully Funded)",
-   "u": "https://www.opportunitiesforafricans.com/commonwealth-shared-scholarships-2027-2028/",
-   "d": "2026-11-10",
-   "s": "Opportunities for Africans",
-   "c": "بریتانیا",
-   "l": "ماستر"
   }
  ]
 }
