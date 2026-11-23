@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T04:16:00.270Z",
+ "updated": "2026-11-23T16:37:44.170Z",
  "items": [
   {
    "n": "بورسیه ترکیه (Türkiye Bursları)",
@@ -74,6 +74,70 @@
    "pinned": true
   },
   {
+   "n": "New Scholarships at Oxford, NTU, Stockholm and Geneva",
+   "u": "https://www.scholars4dev.com/new-scholarships-23-november-2026/",
+   "d": "2026-11-23",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": ""
+  },
+  {
+   "n": "Top 20+ Scholarships in Sweden for International Students",
+   "u": "https://www.scholars4dev.com/scholarships-in-sweden-for-international-students/",
+   "d": "2026-11-23",
+   "s": "Scholars4Dev",
+   "c": "سویډن",
+   "l": ""
+  },
+  {
+   "n": "Geneva Academy Scholarships for LLM Programmes in International Humanitarian Law and Human Rights",
+   "u": "https://www.scholars4dev.com/geneva-academy-of-international-humanitarian-law-and-human-rights-scholarships/",
+   "d": "2026-11-23",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": ""
+  },
+  {
+   "n": "Stockholm University Scholarships for International Students",
+   "u": "https://www.scholars4dev.com/stockholm-university-scholarships/",
+   "d": "2026-11-23",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": "ماستر"
+  },
+  {
+   "n": "Ertegun Graduate Scholarships in the Humanities at University of Oxford",
+   "u": "https://www.scholars4dev.com/ertegun-graduate-scholarships-oxford/",
+   "d": "2026-11-23",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": "ماستر"
+  },
+  {
+   "n": "Nanyang President's Graduate Scholarship (NPGS) at NTU Singapore",
+   "u": "https://www.scholars4dev.com/nanyang-presidents-graduate-scholarship-ntu-singapore/",
+   "d": "2026-11-23",
+   "s": "Scholars4Dev",
+   "c": "",
+   "l": "دکترا"
+  },
+  {
+   "n": "The Tor Community Fellowship 2027 for human rights defenders, journalists, technologists, and researchers (500 USD monthly stipend)",
+   "u": "https://www.opportunitiesforafricans.com/the-tor-community-fellowship-2027/",
+   "d": "2026-11-23",
+   "s": "Opportunities for Africans",
+   "c": "",
+   "l": ""
+  },
+  {
+   "n": "Fulbright Teaching Excellence and Achievement Program 2027/2028 (Fulbright TEA) for secondary-level teachers (Fully Funded to the United States)",
+   "u": "https://www.opportunitiesforafricans.com/fulbright-teaching-excellence-and-achievement-program-2027-2028-fulbright-tea-for-secondary-level-teachers/",
+   "d": "2026-11-23",
+   "s": "Opportunities for Africans",
+   "c": "امریکا",
+   "l": ""
+  },
+  {
    "n": "The Dataphyte Foundation Infra-watch Media Fellowship 2026 for Nigerian journalists.",
    "u": "https://www.opportunitiesforafricans.com/the-dataphyte-foundation-infra-watch-media-fellowship-2026-for-nigerian-journalists/",
    "d": "2026-11-21",
@@ -88,14 +152,6 @@
    "s": "Opportunities for Africans",
    "c": "",
    "l": "ماستر"
-  },
-  {
-   "n": "The PPS Foundation’s Bursary Programme 2027 for young South African students.",
-   "u": "https://www.opportunitiesforafricans.com/the-pps-foundations-bursary-programme-2027-for-young-south-african-students/",
-   "d": "2026-11-20",
-   "s": "Opportunities for Africans",
-   "c": "",
-   "l": ""
   },
   {
    "n": "10+ New Scholarships for International Students",
@@ -125,54 +181,6 @@
    "n": "Mastercard Foundation AfOx Graduate Scholarships for the Oxford MBA",
    "u": "https://www.scholars4dev.com/mastercard-foundation-afox-graduate-scholarships-oxford-mba/",
    "d": "2026-11-16",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "ماستر"
-  },
-  {
-   "n": "President's PhD Scholarships at Imperial College London",
-   "u": "https://www.scholars4dev.com/imperial-presidents-phd-scholarships/",
-   "d": "2026-11-16",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "دکترا"
-  },
-  {
-   "n": "American University Emerging Global Leader Scholarship",
-   "u": "https://www.scholars4dev.com/american-university-scholarships-for-international-students/",
-   "d": "2026-11-16",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "لیسانس"
-  },
-  {
-   "n": "Carleton Prestige Scholarships",
-   "u": "https://www.scholars4dev.com/carleton-prestige-scholarships/",
-   "d": "2026-11-15",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "لیسانس"
-  },
-  {
-   "n": "NL Scholarship (formerly Holland Scholarship) at Erasmus University Rotterdam",
-   "u": "https://www.scholars4dev.com/erasmus-university-holland-scholarship/",
-   "d": "2026-11-15",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "لیسانس، ماستر"
-  },
-  {
-   "n": "Padua International Excellence Scholarships at University of Padua",
-   "u": "https://www.scholars4dev.com/university-of-padua-international-scholarships/",
-   "d": "2026-11-15",
-   "s": "Scholars4Dev",
-   "c": "",
-   "l": "لیسانس، ماستر"
-  },
-  {
-   "n": "ADB Scholarships at University of Auckland",
-   "u": "https://www.scholars4dev.com/adb-scholarships-at-univeristy-of-auckland/",
-   "d": "2026-11-15",
    "s": "Scholars4Dev",
    "c": "",
    "l": "ماستر"
